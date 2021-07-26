@@ -1,4 +1,4 @@
-### wave: Hello there! I'm Aditya
+### Hello there! I'm Aditya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 I'm a Full-Stack App-Developer and I love to innovate new ideas
 
 <p align="left">
