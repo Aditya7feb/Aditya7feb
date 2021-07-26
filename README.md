@@ -40,11 +40,11 @@
 
 
 <a href="#Aditya7feb-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya7feb&show_icons=true&count_private=true&include_all_commits=true" alt="Aditya7feb" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya7feb&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true" alt="Aditya7feb" align="center" />
 </a>
 
 <!-- links -->
 
-[84.51°]: https://github.com/Aditya7feb "Github Home"
+[Github Profile]: https://github.com/Aditya7feb "Github Home"
 [issues page]: https://github.com/Aditya7feb/Aditya7feb/issues "Aditya7feb/issues"
 [linkedin]: https://www.linkedin.com/in/aditya-cse/ "Aditya LinkedIn"
