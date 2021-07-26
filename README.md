@@ -1,5 +1,5 @@
-<h1 align="left" id="Aditya7feb-title">:wave: Hello there! I'm Aditya</h1>
-<h3 align="left">I'm a Full-Stack App-Developer and I love to innovate new ideas</h3>
+### wave: Hello there! I'm Aditya
+I'm a Full-Stack App-Developer and I love to innovate new ideas
 
 <p align="left">
   <h2 align="left" id="Aditya7feb-tech">Favorite Tech</h2>
@@ -29,6 +29,7 @@
   
 </p>
 
+## About me 📝
 
 - :office: &nbsp;I'm currently working at **[```Dahlia Technologies Pvt. Ltd.```]**
 - :seedling: &nbsp;I’m currently learning **```Blockchain```,```Cyber Security```**
