@@ -2,11 +2,6 @@
 <h3 align="left">I'm a Full-Stack App-Developer and I love to innovate new ideas</h3>
 
 <p align="left">
-  <a href="https://github.com/Aditya7feb/Aditya7feb">
-    <img src="https://komarev.com/ghpvc/?username=Aditya7feb" alt="page views" />
-  </a>
-  
-
   <h2 align="left" id="Aditya7feb-tech">Favorite Tech</h2>
 
   > Tools, languages, and other things that I like to work with.
@@ -25,6 +20,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
+  <a href="https://github.com/Aditya7feb/Aditya7feb">
+    <img src="https://komarev.com/ghpvc/?username=Aditya7feb" alt="page views" />
+  </a>
   <a href="https://github.com/Aditya7feb?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aditya7feb?color=green&logo=github">
   </a>
@@ -33,9 +31,6 @@
   </a>
 </p>
 
-<a href="#Aditya7feb-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya7feb&show_icons=true&count_private=true&include_all_commits=true" alt="Aditya7feb" align="right" />
-</a>
 
 - :office: &nbsp;I'm currently working at **[```Dahlia Technologies Pvt. Ltd.```]**
 - :seedling: &nbsp;I’m currently learning **```Blockchain```**
@@ -44,6 +39,11 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
+
+
+<a href="#Aditya7feb-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya7feb&show_icons=true&count_private=true&include_all_commits=true" alt="Aditya7feb" align="right" />
+</a>
 
 <!-- links -->
 
