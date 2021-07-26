@@ -34,15 +34,15 @@
 
 - :office: &nbsp;I'm currently working at **[```Dahlia Technologies Pvt. Ltd.```]**
 - :seedling: &nbsp;I’m currently learning **```Blockchain```**
-<!-- - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS** -->
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
+<!-- - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS** -->
 
 <br>
 
 
 <a href="#Aditya7feb-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya7feb&show_icons=true&count_private=true&include_all_commits=true" alt="Aditya7feb" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya7feb&show_icons=true&count_private=true&include_all_commits=true" alt="Aditya7feb" align="center" />
 </a>
 
 <!-- links -->
