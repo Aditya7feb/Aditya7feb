@@ -2,7 +2,7 @@
 I'm a Full-Stack App-Developer and I love to innovate new ideas
 
 <p align="left">
-  <h2 align="left" id="Aditya7feb-tech">Favorite Tech</h2>
+  <h3 align="left" id="Aditya7feb-tech">Favorite Tech</h3>
 
   > Tools, languages, and other things that I like to work with.
 
