@@ -26,14 +26,12 @@
   <a href="https://github.com/Aditya7feb?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aditya7feb?color=green&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
+  
 </p>
 
 
 - :office: &nbsp;I'm currently working at **[```Dahlia Technologies Pvt. Ltd.```]**
-- :seedling: &nbsp;I’m currently learning **```Blockchain```**
+- :seedling: &nbsp;I’m currently learning **```Blockchain```,```Cyber Security```**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 <!-- - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS** -->
@@ -48,5 +46,5 @@
 <!-- links -->
 
 [84.51°]: https://github.com/Aditya7feb "Github Home"
-[issues page]: https://github.com/Aditya7feb/Aditya7feb/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/aditya-cse/ "Jacob Colvin LinkedIn"
+[issues page]: https://github.com/Aditya7feb/Aditya7feb/issues "Aditya7feb/issues"
+[linkedin]: https://www.linkedin.com/in/aditya-cse/ "Aditya LinkedIn"
