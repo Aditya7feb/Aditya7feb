@@ -1,4 +1,4 @@
-### Hello there! I'm Aditya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+### Hello there! I'm Aditya.   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 I'm a Full-Stack App-Developer and I love to innovate new ideas
 
 <p align="left">
@@ -29,7 +29,7 @@ I'm a Full-Stack App-Developer and I love to innovate new ideas
   
 </p>
 
-## About me 📝
+#### About me 📝
 
 - :office: &nbsp;I'm currently working at **[```Dahlia Technologies Pvt. Ltd.```]**
 - :seedling: &nbsp;I’m currently learning **```Blockchain```,```Cyber Security```**
