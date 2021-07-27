@@ -45,7 +45,7 @@ I'm a Full-Stack App-Developer and I love to innovate new ideas
 </a>
 
 <a href="#Aditya7feb-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya7feb&theme=cobalt&layout=compact&hide=javascript,Jupyter%20Notebook" alt="Aditya7feb" align="right" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya7feb&theme=cobalt&layout=compact&hide=javascript,Jupyter%20Notebook" alt="Aditya7feb" align="right" width="50%" />
 </a>
 
 
