@@ -41,8 +41,13 @@ I'm a Full-Stack App-Developer and I love to innovate new ideas
 
 
 <a href="#Aditya7feb-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya7feb&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true" alt="Aditya7feb" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya7feb&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true" alt="Aditya7feb" align="left" />
 </a>
+
+<a href="#Aditya7feb-title">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya7feb&langs_count=8&layout=compact&hide=javascript,Jupyter%20Notebook" alt="Aditya7feb" align="right" />
+</a>
+
 
 <!-- links -->
 
