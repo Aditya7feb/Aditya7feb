@@ -32,7 +32,7 @@ I'm a Full-Stack App-Developer and I love to innovate new ideas
 
 #### About me 📝
 
-- :office: &nbsp;I'm currently working at **```Dahlia Technologies Pvt. Ltd.```**
+
 - :seedling: &nbsp;I’m currently learning **```Blockchain```,```Cyber Security```**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
